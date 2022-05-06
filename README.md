@@ -7,7 +7,7 @@
 </p>
 
 ## About
-A powerful Slash `Suggestion` Discord Bot
+A powerful Slash `Suggestion` Discord Bot.
 
 ## Installation
 To get started clone this repository and run `npm install`.
